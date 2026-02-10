@@ -4,7 +4,7 @@ A clean iOS video capture application built with SwiftUI and AVFoundation, demon
 
 ## 🎬 Demo Video
 
-[**Watch the App in Action** →](./video_demo.MP4)
+[**Watch the App in Action** →](./CaptureDemo/video_demo.MP4)
 
 See the complete recording workflow, text overlay customization, and error handling in action.
 
